@@ -1,0 +1,16 @@
+{
+  "name": "fake_api_rubi",
+  "version": "1.0.0",
+  "description": "Api simulada",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "keywords": [],
+  "author": "Rubiela Cifuentes Ruiz",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.4"
+  }
+}
